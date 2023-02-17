@@ -2,9 +2,15 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCLemos&langs_count=12&layout=compact&theme=tokyonight" align="right">
   
- ## Hello, I'm Gabriel Carvalho Lemos!
+ # Hello, I'm Gabriel Carvalho Lemos!
+
 
 I'm 21 years old, I live in Venda Nova do Imigrante/ES, I'm studying Analysis and systems development at [UVV](https://uvv.br). 
+##
+# Olá, sou Gabriel Carvalho Lemos!
+
+
+Tenho 21 anos, moro em Venda Nova do Imigrante/ES, estou cursando Análise e desenvolvimento de sistemas na [UVV](https://uvv.br).
 
 ### > Languagues and Tools (Learning)
 
