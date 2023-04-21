@@ -1,6 +1,6 @@
 ##
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCLemos&langs_count=12&layout=compact&theme=tokyonight" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-lans/?username=GCLemos&langs_count=12&layout=compact&theme=tokyonight" align="right">
   
  # Hello, I'm Gabriel Carvalho Lemos!
 
