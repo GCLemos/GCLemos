@@ -10,7 +10,7 @@ I'm 22 years old, I live in Venda Nova do Imigrante/ES, I'm studying Analysis an
 # Olá, sou Gabriel Carvalho Lemos!
 
 
-Tenho 21 anos, moro em Venda Nova do Imigrante/ES, estou cursando Análise e desenvolvimento de sistemas na [UVV](https://uvv.br).
+Tenho 22 anos, moro em Venda Nova do Imigrante/ES, estou cursando Análise e desenvolvimento de sistemas na [UVV](https://uvv.br).
 
 ### > Languagues and Tools (Learning)
 
