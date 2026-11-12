@@ -1,0 +1,33 @@
+name: Atualizar idade
+
+on:
+  schedule:
+    - cron: "5 3 * * *" # todo dia, 00:05 no horário de Brasília
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Recalcular idade
+        run: python .github/scripts/update_age.py
+
+      - name: Commit (só se mudou)
+        run: |
+          if git diff --quiet; then
+            echo "Nada mudou."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "🎂 Atualiza idade"
+          git push
